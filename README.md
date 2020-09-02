@@ -1,3 +1,6 @@
+# RIMA-A Transparent Recommendation and Interest Modeling Application
+This is the frontend for the RIMA web application.
+
 Steps to setup
 
 1. Install npm https://www.npmjs.com/get-npm
